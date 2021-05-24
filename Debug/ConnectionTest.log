@@ -1,0 +1,3 @@
+﻿  ConnectionTest.cpp
+F:\programming stuff\Visual Studio\ConnectionTest\ConnectionTest\ConnectionTest.cpp(15,17): warning C4018: '<': signed/unsigned mismatch
+  ConnectionTest.vcxproj -> F:\programming stuff\Visual Studio\ConnectionTest\Debug\ConnectionTest.exe
